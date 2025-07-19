@@ -6,11 +6,11 @@ there has been some controversy with **Ruby**, Ex Co-Owner and Coder of squishy.
 and the code was closed source and "dirty" as said by her.
 
 # Features
-i successfully remade:
+> i successfully remade:
 - Sending a Random message upon Ping
 - Bald Miku Command
-- PatPat
-Planning to remake:
+- PatPat.
+> Planning to remake:
 - Gambling
 - Smoke Alarm Webhook messages
 - CoinFlip
